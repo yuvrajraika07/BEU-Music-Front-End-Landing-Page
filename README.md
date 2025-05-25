@@ -26,7 +26,8 @@ This project is a single page front end web for BEU Music built with React JS fr
 ![Design overview for BEU Music landing page](./src/images/header-beu.png)
 
 ### Links
-- [Live Site URL]()
+- [Live Site URL] (https://beu-music-front-end-landing-page-2mv1q4ug7.vercel.app
+Filter deployments)
 
 ### Credit
 - [Figma Web Design & UI Kit i used for this project is published by Dmm Kreativ](https://ui8.net/dmm-kreativ/products/uniquepages?status=7)
