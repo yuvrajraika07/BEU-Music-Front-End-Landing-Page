@@ -26,7 +26,7 @@ This project is a single page front end web for BEU Music built with React JS fr
 ![Design overview for BEU Music landing page](./src/images/header-beu.png)
 
 ### Links
-- [Live Site URL](https://glowing-tarsier-b071f1.netlify.app/)
+- [Live Site URL]()
 
 ### Credit
 - [Figma Web Design & UI Kit i used for this project is published by Dmm Kreativ](https://ui8.net/dmm-kreativ/products/uniquepages?status=7)
@@ -75,5 +75,4 @@ The development of this project can be continued by creating multiple page for e
 
 ## Author
 
-- Github - [Shabrina Putri](https://github.com/shabrina12/)
-- Instagram - [@shabputri_](https://www.twitter.com/yourusername)
+- Github - [yuvraj raika ](https://github.com/yuvrajraika07/)
